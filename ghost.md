@@ -8,4 +8,6 @@ Visit the project's website at http://ghost.org • docs on http://docs.ghost.or
 
 ## Japanese
 
-(TODO)
+Ghostは、誰でも簡単に使えるフリーでオープンでシンプルなブログプラットフォームです。john O'NolanとHannah Wolfe、すばらしい貢献者のグループによって愛情をこめて作られ、メンテナンス（維持）されています。
+
+プロジェクトのWebサイト [http://ghost.org](http://ghost.org) ・ [http://docs.ghost.org](http://docs.ghost.org) 上のドキュメントを見てください。
